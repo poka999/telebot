@@ -3,7 +3,7 @@ import requests
 
 # === CONFIG ===
 TELEGRAM_TOKEN = "6544141692:AAEaDh-ega9I4EqqUc6waTrrBoe2GS92vY4"
-GITHUB_TOKEN = "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"  # must have repo + workflow permissions
+GITHUB_TOKEN = "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"  # must have repo + workflow permissions
 REPO_OWNER = "Pkoka99"
 REPO_NAME = "Pkoka99"
 WORKFLOW_FILE = "main.yml"  # or workflow_id if you prefer
